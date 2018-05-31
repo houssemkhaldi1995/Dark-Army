@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: e2e030304a02e88438a14966465387f1
+  - enabled: 1
+    path: Assets/asenes/Start Menu.unity
+    guid: d8707f0f6a689b843bf7613489217776
+  - enabled: 1
+    path: Assets/asenes/city.unity
+    guid: 91fcd7ad395463c4d9a68f0731d6131d
+  - enabled: 1
+    path: Assets/asenes/Main.unity
+    guid: 7a721a2b33bb1c24f90f5c9cb088cdcb
+  - enabled: 1
+    path: Assets/asenes/islandlvl.unity
+    guid: 79ae198ef6418e44e843ee514afd8f10
+  - enabled: 1
+    path: Assets/asenes/island.unity
+    guid: adf36241a54b1d442a51fa80588b938d
+  - enabled: 1
+    path: Assets/asenes/desert.unity
+    guid: 710aeee5094984a4eabc130ea8027672
+  - enabled: 1
+    path: Assets/asenes/stage2.unity
+    guid: 01eead9d5288a2f44a05ab9c7d79011b
+  - enabled: 1
+    path: Assets/asenes/final scene.unity
+    guid: 9c55af69f0dc0bb4a8d84d4c2904b071
+  - enabled: 1
+    path: Assets/asenes/gameover.unity
+    guid: a6dface9ec883ea44af04b34211f921b
